@@ -5,7 +5,7 @@ export default function Child(props) {
     props.testing(10)
   return (
     <div>
-        Child
+        Child 123
         {props.test}
         <div>
         Name:{props.fullname}
